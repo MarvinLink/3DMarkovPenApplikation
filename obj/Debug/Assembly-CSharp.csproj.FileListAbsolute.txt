@@ -1,0 +1,943 @@
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\BachelorModellierKernel\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\BachelorModellierKernel\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Assembly-CSharp.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Assembly-CSharp.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\HTWBerlin.CENTIS.UnitySketchingKernel.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\HTWBerlin.FKI.VRSketchingGeometry.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\HTWBerlin.FKI.VRSketchingGeometry.Runtime.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Microsoft.Win32.Primitives.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\mscorlib.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\netstandard.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Newtonsoft.Json.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\ReportGeneratorMerged.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.AppContext.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Buffers.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Collections.Concurrent.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Collections.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Collections.NonGeneric.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Collections.Specialized.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.ComponentModel.Composition.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.ComponentModel.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.ComponentModel.Primitives.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.ComponentModel.TypeConverter.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Console.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Core.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Data.Common.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Data.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.Contracts.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.Debug.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.Process.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.StackTrace.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.Tools.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.TraceSource.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.Tracing.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Drawing.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Drawing.Primitives.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Dynamic.Runtime.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Globalization.Calendars.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Globalization.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Globalization.Extensions.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.IO.Compression.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.IO.Compression.FileSystem.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.IO.Compression.ZipFile.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.IO.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.IO.FileSystem.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.IO.FileSystem.Primitives.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.IO.FileSystem.Watcher.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.IO.IsolatedStorage.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.IO.MemoryMappedFiles.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.IO.Pipes.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Linq.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Linq.Expressions.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Linq.Parallel.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Linq.Queryable.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Memory.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Net.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Net.Http.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Net.NameResolution.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Net.NetworkInformation.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Net.Ping.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Net.Primitives.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Net.Requests.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Net.Security.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Net.Sockets.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Net.WebHeaderCollection.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Net.WebSockets.Client.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Net.WebSockets.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Numerics.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Numerics.Vectors.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.ObjectModel.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.DispatchProxy.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.Emit.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.Emit.Lightweight.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.Extensions.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.Primitives.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Resources.Reader.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Resources.ResourceManager.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Resources.Writer.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Extensions.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Handles.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.InteropServices.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Numerics.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Serialization.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Serialization.Formatters.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Serialization.Json.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Serialization.Primitives.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Serialization.Xml.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Security.Claims.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Security.Cryptography.Algorithms.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Security.Cryptography.Csp.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Security.Cryptography.Encoding.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Security.Cryptography.Primitives.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Security.Principal.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Security.SecureString.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.ServiceModel.Web.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Text.Encoding.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Text.Encoding.Extensions.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Text.RegularExpressions.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Threading.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Overlapped.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Tasks.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Tasks.Extensions.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Tasks.Parallel.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Thread.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Threading.ThreadPool.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Timer.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Transactions.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.ValueTuple.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Web.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Windows.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Xml.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Xml.Linq.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Xml.ReaderWriter.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Xml.Serialization.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Xml.XDocument.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Xml.XmlDocument.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Xml.XmlSerializer.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Xml.XPath.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Xml.XPath.XDocument.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.EditorCoroutines.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.InputSystem.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.InputSystem.ForUI.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Mathematics.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Mathematics.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Performance.Profile-Analyzer.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.PlasticSCM.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Rider.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Services.Core.Analytics.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Services.Core.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Services.Core.Environments.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Splines.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Splines.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Splines.Examples.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.TestTools.CodeCoverage.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.TextMeshPro.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.TextMeshPro.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Timeline.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Timeline.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Antlr3.Runtime.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Core.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Core.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Flow.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Flow.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.SettingsProvider.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Shared.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.State.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.State.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualStudio.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VSCode.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARAnalytics.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARFoundation.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARFoundation.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARFoundation.InternalUtils.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARFoundation.VisualScripting.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARFoundation.VisualScripting.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARSubsystems.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARSubsystems.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.CoreUtils.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.CoreUtils.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Hands.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Hands.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Hands.Samples.VisualizerSample.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Interaction.Toolkit.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Interaction.Toolkit.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Interaction.Toolkit.Samples.StarterAssets.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Management.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Management.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Management.Samples.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Management.Samples.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Oculus.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Oculus.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.ConformanceAutomation.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.MetaQuestSupport.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.MetaQuestSupport.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.OculusQuestSupport.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Simulation.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Simulation.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.CoreModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.DeviceSimulatorModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.DiagnosticsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.GraphViewModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.PackageManagerUIModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.PresetsUIModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.QuickSearchModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SceneTemplateModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SpatialTracking.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TextCoreFontEngineModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TextCoreTextEngineModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UI.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIBuilderModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIElementsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIElementsSamplesModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIServiceModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UnityConnectModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.XR.LegacyInputHelpers.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AccessibilityModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AIModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AndroidJNIModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AnimationModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ARModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AssetBundleModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AudioModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClothModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClusterInputModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClusterRendererModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.CoreModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.CrashReportingModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.DirectorModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.DSPGraphModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GameCenterModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GIModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GridModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.HotReloadModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ImageConversionModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.IMGUIModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.InputLegacyModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.InputModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.JSONSerializeModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.LocalizationModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ParticleSystemModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.Physics2DModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.PhysicsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ProfilerModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SharedInternalsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SpatialTracking.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SpriteMaskModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SpriteShapeModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.StreamingModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SubstanceModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SubsystemsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TerrainModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextRenderingModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TilemapModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TLSModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UI.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UIElementsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UIElementsNativeModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UIModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UmbraModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UNETModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityConnectModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityCurlModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VehiclesModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VFXModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VideoModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VirtualTexturingModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VRModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.WindModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.XR.LegacyInputHelpers.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.XRModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.NVIDIAModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Cecil.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Settings.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TestRunner.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TestRunner.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.RuntimeDebugger.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\HTWBerlin.CENTIS.UnitySketchingKernel.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Splines.Examples.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Interaction.Toolkit.Samples.StarterAssets.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Hands.Samples.VisualizerSample.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Management.Samples.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Management.Samples.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AIModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ARModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AccessibilityModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AndroidJNIModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AnimationModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AssetBundleModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AudioModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClothModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClusterInputModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClusterRendererModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.CoreModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.CrashReportingModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.DSPGraphModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.DirectorModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GIModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GameCenterModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GridModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.HotReloadModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.IMGUIModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ImageConversionModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.InputModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.InputLegacyModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.JSONSerializeModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.LocalizationModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ParticleSystemModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.PhysicsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.Physics2DModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ProfilerModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SharedInternalsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SpriteMaskModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SpriteShapeModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.StreamingModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SubstanceModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SubsystemsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TLSModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TerrainModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextCoreFontEngineModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextCoreTextEngineModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextRenderingModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TilemapModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UIModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UIElementsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UIElementsNativeModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UNETModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UmbraModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityConnectModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityCurlModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityTestProtocolModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VFXModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VRModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VehiclesModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VideoModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VirtualTexturingModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.WindModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.XRModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.CoreModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.DeviceSimulatorModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.DiagnosticsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.GraphViewModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.PackageManagerUIModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.PresetsUIModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.QuickSearchModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SceneTemplateModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TextCoreFontEngineModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TextCoreTextEngineModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIBuilderModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIElementsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIElementsSamplesModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIServiceModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UnityConnectModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Newtonsoft.Json.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Splines.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VSCode.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.TextMeshPro.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Performance.Profile-Analyzer.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Splines.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARFoundation.InternalUtils.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.State.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.SettingsProvider.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UI.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.InputSystem.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Rider.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SpatialTracking.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UI.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.MetaQuestSupport.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.EditorCoroutines.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Simulation.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.CoreUtils.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Hands.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARSubsystems.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.MetaQuestSupport.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Management.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Mathematics.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARSubsystems.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Oculus.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARAnalytics.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARFoundation.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Simulation.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Flow.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualStudio.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Management.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Timeline.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Core.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.TextMeshPro.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Interaction.Toolkit.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Flow.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.PlasticSCM.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.OculusQuestSupport.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Services.Core.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Core.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Mathematics.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Services.Core.Analytics.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.XR.LegacyInputHelpers.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Shared.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\HTWBerlin.FKI.VRSketchingGeometry.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Services.Core.Environments.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARFoundation.VisualScripting.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Timeline.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.CoreUtils.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.XR.LegacyInputHelpers.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Hands.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Interaction.Toolkit.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Oculus.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.InputSystem.ForUI.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SpatialTracking.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.TestTools.CodeCoverage.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.ConformanceAutomation.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\HTWBerlin.FKI.VRSketchingGeometry.Runtime.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.State.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARFoundation.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARFoundation.VisualScripting.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.NVIDIAModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Settings.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TestRunner.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TestRunner.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.RuntimeDebugger.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\obj\Debug\Assembly-CSharp.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\obj\Debug\Assembly-CSharp.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\obj\Debug\Assembly-CSharp.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Assembly-CSharp.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Assembly-CSharp.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\ControllerSample.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\HTWBerlin.CENTIS.UnitySketchingKernel.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\HTWBerlin.FKI.VRSketchingGeometry.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\HTWBerlin.FKI.VRSketchingGeometry.Runtime.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Microsoft.Win32.Primitives.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\mscorlib.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\netstandard.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Newtonsoft.Json.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\ReportGeneratorMerged.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\SteamVR.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\SteamVR_Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\SteamVR_Input_Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\SteamVR_Windows_EditorHelper.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.AppContext.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Buffers.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Collections.Concurrent.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Collections.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Collections.NonGeneric.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Collections.Specialized.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.ComponentModel.Composition.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.ComponentModel.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.ComponentModel.EventBasedAsync.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.ComponentModel.Primitives.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.ComponentModel.TypeConverter.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Console.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Core.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Data.Common.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Data.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.Contracts.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.Debug.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.FileVersionInfo.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.Process.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.StackTrace.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.TextWriterTraceListener.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.Tools.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.TraceSource.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Diagnostics.Tracing.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Drawing.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Drawing.Primitives.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Dynamic.Runtime.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Globalization.Calendars.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Globalization.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Globalization.Extensions.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.IO.Compression.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.IO.Compression.FileSystem.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.IO.Compression.ZipFile.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.IO.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.IO.FileSystem.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.IO.FileSystem.DriveInfo.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.IO.FileSystem.Primitives.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.IO.FileSystem.Watcher.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.IO.IsolatedStorage.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.IO.MemoryMappedFiles.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.IO.Pipes.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.IO.UnmanagedMemoryStream.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Linq.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Linq.Expressions.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Linq.Parallel.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Linq.Queryable.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Memory.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Net.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Net.Http.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Net.NameResolution.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Net.NetworkInformation.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Net.Ping.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Net.Primitives.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Net.Requests.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Net.Security.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Net.Sockets.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Net.WebHeaderCollection.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Net.WebSockets.Client.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Net.WebSockets.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Numerics.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Numerics.Vectors.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.ObjectModel.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.DispatchProxy.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.Emit.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.Emit.ILGeneration.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.Emit.Lightweight.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.Extensions.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Reflection.Primitives.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Resources.Reader.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Resources.ResourceManager.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Resources.Writer.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.CompilerServices.VisualC.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Extensions.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Handles.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.InteropServices.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Numerics.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Serialization.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Serialization.Formatters.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Serialization.Json.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Serialization.Primitives.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Runtime.Serialization.Xml.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Security.Claims.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Security.Cryptography.Algorithms.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Security.Cryptography.Csp.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Security.Cryptography.Encoding.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Security.Cryptography.Primitives.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Security.Cryptography.X509Certificates.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Security.Principal.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Security.SecureString.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.ServiceModel.Web.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Text.Encoding.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Text.Encoding.Extensions.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Text.RegularExpressions.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Threading.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Overlapped.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Tasks.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Tasks.Extensions.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Tasks.Parallel.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Thread.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Threading.ThreadPool.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Threading.Timer.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Transactions.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.ValueTuple.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Web.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Windows.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Xml.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Xml.Linq.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Xml.ReaderWriter.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Xml.Serialization.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Xml.XDocument.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Xml.XmlDocument.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Xml.XmlSerializer.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Xml.XPath.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\System.Xml.XPath.XDocument.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.EditorCoroutines.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.InputSystem.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.InputSystem.ForUI.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Mathematics.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Mathematics.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Performance.Profile-Analyzer.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.PlasticSCM.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Rider.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Services.Core.Analytics.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Services.Core.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Services.Core.Environments.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Splines.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Splines.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Splines.Examples.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.TestTools.CodeCoverage.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.TextMeshPro.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.TextMeshPro.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Timeline.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Timeline.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Antlr3.Runtime.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Core.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Core.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Flow.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Flow.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.SettingsProvider.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Shared.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.State.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.State.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualStudio.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VSCode.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARAnalytics.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARFoundation.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARFoundation.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARFoundation.InternalUtils.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARFoundation.VisualScripting.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARFoundation.VisualScripting.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARSubsystems.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARSubsystems.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.CoreUtils.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.CoreUtils.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Hands.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Hands.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Hands.Samples.VisualizerSample.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Interaction.Toolkit.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Interaction.Toolkit.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Interaction.Toolkit.Samples.StarterAssets.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Management.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Management.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Management.Samples.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Management.Samples.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.MockHMD.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.MockHMD.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Oculus.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Oculus.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenVR.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenVR.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.ConformanceAutomation.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.MetaQuestSupport.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.MetaQuestSupport.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.OculusQuestSupport.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Simulation.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Simulation.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.CoreModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.DeviceSimulatorModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.DiagnosticsModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.GraphViewModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.PackageManagerUIModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.QuickSearchModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SceneTemplateModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SpatialTracking.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TextCoreFontEngineModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TextCoreTextEngineModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UI.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIBuilderModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIElementsModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIElementsSamplesModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIServiceModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UnityConnectModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.XR.LegacyInputHelpers.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AccessibilityModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AIModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AndroidJNIModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AnimationModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ARModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AssetBundleModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AudioModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClothModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClusterInputModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClusterRendererModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.CoreModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.CrashReportingModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.DirectorModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.DSPGraphModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GameCenterModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GIModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GridModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.HotReloadModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ImageConversionModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.IMGUIModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.InputLegacyModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.InputModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.JSONSerializeModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.LocalizationModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ParticleSystemModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.PerformanceReportingModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.Physics2DModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.PhysicsModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ProfilerModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ScreenCaptureModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SharedInternalsModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SpatialTracking.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SpriteMaskModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SpriteShapeModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.StreamingModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SubstanceModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SubsystemsModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TerrainModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TerrainPhysicsModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextCoreFontEngineModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextCoreTextEngineModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextRenderingModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TilemapModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TLSModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UI.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UIElementsModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UIElementsNativeModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UIModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UmbraModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UNETModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityAnalyticsModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityConnectModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityCurlModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityTestProtocolModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestAudioModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestTextureModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestWWWModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VehiclesModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VFXModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VideoModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VirtualTexturingModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VRModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.WindModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.XR.LegacyInputHelpers.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.XRModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Valve.Newtonsoft.Json.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Wave.OpenXR.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Wave.OpenXR.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Wave.OpenXR.Toolkit.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Wave.OpenXR.Toolkit.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.NVIDIAModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Cecil.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Settings.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TestRunner.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TestRunner.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.RuntimeDebugger.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\SteamVR_Input_Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\HTWBerlin.CENTIS.UnitySketchingKernel.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Splines.Examples.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\SteamVR_Windows_EditorHelper.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\ControllerSample.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\SteamVR_Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Interaction.Toolkit.Samples.StarterAssets.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\SteamVR.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Hands.Samples.VisualizerSample.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Management.Samples.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Management.Samples.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AIModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ARModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AccessibilityModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AndroidJNIModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AnimationModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AssetBundleModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.AudioModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClothModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClusterInputModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ClusterRendererModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.CoreModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.CrashReportingModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.DSPGraphModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.DirectorModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GIModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GameCenterModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.GridModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.HotReloadModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.IMGUIModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ImageConversionModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.InputModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.InputLegacyModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.JSONSerializeModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.LocalizationModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ParticleSystemModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.PerformanceReportingModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.PhysicsModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.Physics2DModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ProfilerModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.ScreenCaptureModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SharedInternalsModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SpriteMaskModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SpriteShapeModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.StreamingModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SubstanceModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SubsystemsModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TLSModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TerrainModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TerrainPhysicsModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextCoreFontEngineModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextCoreTextEngineModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TextRenderingModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TilemapModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UIModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UIElementsModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UIElementsNativeModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UNETModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UmbraModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityAnalyticsModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityConnectModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityCurlModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityTestProtocolModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestAudioModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestTextureModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UnityWebRequestWWWModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VFXModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VRModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VehiclesModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VideoModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.VirtualTexturingModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.WindModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.XRModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.CoreModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.DeviceSimulatorModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.DiagnosticsModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.GraphViewModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.PackageManagerUIModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.QuickSearchModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SceneTemplateModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TextCoreFontEngineModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TextCoreTextEngineModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIBuilderModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIElementsModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIElementsSamplesModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UIServiceModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UnityConnectModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Newtonsoft.Json.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Splines.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VSCode.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Wave.OpenXR.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenVR.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.TextMeshPro.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Performance.Profile-Analyzer.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Splines.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARFoundation.InternalUtils.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.State.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Wave.OpenXR.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.UI.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.InputSystem.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Rider.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.SpatialTracking.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.UI.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.MetaQuestSupport.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.EditorCoroutines.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Simulation.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.SettingsProvider.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.CoreUtils.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.MockHMD.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Wave.OpenXR.Toolkit.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Hands.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARSubsystems.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.MetaQuestSupport.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Management.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Mathematics.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARSubsystems.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Oculus.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARAnalytics.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARFoundation.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Simulation.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Flow.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualStudio.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Management.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Timeline.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Core.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.TextMeshPro.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Interaction.Toolkit.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Flow.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.PlasticSCM.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.OculusQuestSupport.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.MockHMD.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenVR.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Services.Core.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Core.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Mathematics.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Services.Core.Analytics.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.XR.LegacyInputHelpers.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.Shared.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\HTWBerlin.FKI.VRSketchingGeometry.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Services.Core.Environments.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARFoundation.VisualScripting.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Timeline.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.CoreUtils.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.XR.LegacyInputHelpers.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Wave.OpenXR.Toolkit.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Hands.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Interaction.Toolkit.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.Oculus.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.InputSystem.ForUI.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.SpatialTracking.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.TestTools.CodeCoverage.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.ConformanceAutomation.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\HTWBerlin.FKI.VRSketchingGeometry.Runtime.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.VisualScripting.State.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARFoundation.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.ARFoundation.VisualScripting.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.NVIDIAModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.Settings.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEngine.TestRunner.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\UnityEditor.TestRunner.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Assembly-CSharp\Unity.XR.OpenXR.Features.RuntimeDebugger.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\obj\Debug\Assembly-CSharp.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\obj\Debug\Assembly-CSharp.pdb

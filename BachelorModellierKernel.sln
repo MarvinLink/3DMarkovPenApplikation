@@ -1,0 +1,81 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamVR", "SteamVR.csproj", "{e0301988-796f-bf57-0776-4b245581254c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTWBerlin.CENTIS.UnitySketchingKernel.Runtime", "HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.csproj", "{78c24ff8-0220-3416-e5ca-5fab838aa726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Splines.Examples", "Unity.Splines.Examples.csproj", "{a63ebded-291d-51c7-e497-4fa13d4bfd3b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControllerSample", "ControllerSample.csproj", "{87ab21c9-c6cf-0e4d-33c3-f3aa7edffcaa}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{3c524b07-7a90-a43b-2a80-2b39b02d147b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTWBerlin.CENTIS.UnitySketchingKernel.Editor", "HTWBerlin.CENTIS.UnitySketchingKernel.Editor.csproj", "{88a323bd-eff4-36e8-d06b-d9d97ddeff4e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.StarterAssets", "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj", "{51eb2f06-7fbb-723c-633d-eed7b823ad40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Hands.Samples.VisualizerSample", "Unity.XR.Hands.Samples.VisualizerSample.csproj", "{e56f4819-1b52-981a-9189-6f8384e365d6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamVR_Input_Editor", "SteamVR_Input_Editor.csproj", "{ce20241c-3e21-f941-1a15-689cdb050107}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Management.Samples.Editor", "Unity.XR.Management.Samples.Editor.csproj", "{7fcbf0db-a6e2-f2cb-c200-96992d8a7d0b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamVR_Editor", "SteamVR_Editor.csproj", "{f98eb193-c64c-a5d1-35aa-308b0000606e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Splines.Examples.Editor", "Unity.Splines.Examples.Editor.csproj", "{e87cb008-363e-85b2-7fea-48e1952c2b2d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Management.Samples", "Unity.XR.Management.Samples.csproj", "{fb223f97-cb91-adf3-1455-87fcfe8005b9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{32f19d9c-ab2c-b09b-86a6-a7766c2f5096}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamVR_Windows_EditorHelper", "SteamVR_Windows_EditorHelper.csproj", "{773be6ed-66c0-29a5-8e08-96b398e968e7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor", "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj", "{60c885a4-186d-e947-0c62-1986b69125ce}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.Tests", "HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.Tests.csproj", "{ffbbc6e9-e2e6-cc8f-87b6-f47d8a933d52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{e0301988-796f-bf57-0776-4b245581254c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e0301988-796f-bf57-0776-4b245581254c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78c24ff8-0220-3416-e5ca-5fab838aa726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78c24ff8-0220-3416-e5ca-5fab838aa726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a63ebded-291d-51c7-e497-4fa13d4bfd3b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a63ebded-291d-51c7-e497-4fa13d4bfd3b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87ab21c9-c6cf-0e4d-33c3-f3aa7edffcaa}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87ab21c9-c6cf-0e4d-33c3-f3aa7edffcaa}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3c524b07-7a90-a43b-2a80-2b39b02d147b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3c524b07-7a90-a43b-2a80-2b39b02d147b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88a323bd-eff4-36e8-d06b-d9d97ddeff4e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88a323bd-eff4-36e8-d06b-d9d97ddeff4e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51eb2f06-7fbb-723c-633d-eed7b823ad40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51eb2f06-7fbb-723c-633d-eed7b823ad40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e56f4819-1b52-981a-9189-6f8384e365d6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e56f4819-1b52-981a-9189-6f8384e365d6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ce20241c-3e21-f941-1a15-689cdb050107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ce20241c-3e21-f941-1a15-689cdb050107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7fcbf0db-a6e2-f2cb-c200-96992d8a7d0b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7fcbf0db-a6e2-f2cb-c200-96992d8a7d0b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f98eb193-c64c-a5d1-35aa-308b0000606e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f98eb193-c64c-a5d1-35aa-308b0000606e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e87cb008-363e-85b2-7fea-48e1952c2b2d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e87cb008-363e-85b2-7fea-48e1952c2b2d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{fb223f97-cb91-adf3-1455-87fcfe8005b9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fb223f97-cb91-adf3-1455-87fcfe8005b9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32f19d9c-ab2c-b09b-86a6-a7766c2f5096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32f19d9c-ab2c-b09b-86a6-a7766c2f5096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773be6ed-66c0-29a5-8e08-96b398e968e7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773be6ed-66c0-29a5-8e08-96b398e968e7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60c885a4-186d-e947-0c62-1986b69125ce}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60c885a4-186d-e947-0c62-1986b69125ce}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ffbbc6e9-e2e6-cc8f-87b6-f47d8a933d52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ffbbc6e9-e2e6-cc8f-87b6-f47d8a933d52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,478 @@
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.Tests.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.Tests.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.CoreModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.DSPGraphModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AudioModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityCurlModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TLSModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AndroidJNIModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.InputLegacyModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AccessibilityModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UIModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityConnectModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AIModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.Physics2DModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AnimationModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.PhysicsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AssetBundleModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.SharedInternalsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TextRenderingModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ClothModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ClusterInputModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ClusterRendererModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.CrashReportingModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TilemapModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TerrainModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.IMGUIModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VFXModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VideoModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VRModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.GridModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ImageConversionModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.SubsystemsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.JSONSerializeModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.LocalizationModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UNETModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.NVIDIAModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ParticleSystemModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.DirectorModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VirtualTexturingModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.GameCenterModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.SpriteMaskModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.StreamingModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.SpriteShapeModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UIElementsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UIElementsNativeModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VehiclesModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.WindModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.XRModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ARModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.InputModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.CoreModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UIBuilderModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UIElementsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UnityConnectModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UIServiceModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.DeviceSimulatorModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.DiagnosticsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.GraphViewModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.PackageManagerUIModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.PresetsUIModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.SceneTemplateModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.QuickSearchModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.TextCoreFontEngineModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.TextCoreTextEngineModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UIElementsSamplesModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\Unity.Cecil.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.CoreModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.DSPGraphModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AudioModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityCurlModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TLSModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AndroidJNIModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.InputLegacyModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AccessibilityModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UIModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityConnectModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AIModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.Physics2DModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AnimationModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.PhysicsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AssetBundleModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.SharedInternalsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TextRenderingModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ClothModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ClusterInputModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ClusterRendererModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.CrashReportingModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TilemapModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TerrainModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.IMGUIModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VFXModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VideoModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VRModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.GridModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ImageConversionModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.SubsystemsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.JSONSerializeModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.LocalizationModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UNETModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.NVIDIAModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ParticleSystemModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.DirectorModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VirtualTexturingModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.GameCenterModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.SpriteMaskModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.StreamingModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TextCoreFontEngineModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TextCoreTextEngineModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.SpriteShapeModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UIElementsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UIElementsNativeModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VehiclesModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.WindModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.XRModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ARModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.InputModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.CoreModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UIBuilderModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UIElementsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UnityConnectModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UIServiceModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.DeviceSimulatorModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.DiagnosticsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.GraphViewModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.PackageManagerUIModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.PresetsUIModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.SceneTemplateModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.QuickSearchModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.TextCoreFontEngineModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.TextCoreTextEngineModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UIElementsSamplesModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\obj\Debug\HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.Tests.csproj.AssemblyReference.cache
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\obj\Debug\HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\obj\Debug\HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.Tests.csproj.CopyComplete
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\obj\Debug\HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.Tests.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\Kopie 22.08\BachelorArbeit\BachelorModellierKernel\obj\Debug\HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.Tests.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.Tests.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.Tests.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.CoreModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.DSPGraphModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AudioModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityCurlModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TLSModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AndroidJNIModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.InputLegacyModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AccessibilityModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UIModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityConnectModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AIModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.Physics2DModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AnimationModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.PhysicsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AssetBundleModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.SharedInternalsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TextRenderingModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ClothModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ClusterInputModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ClusterRendererModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.CrashReportingModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TilemapModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TerrainModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.IMGUIModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VFXModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VideoModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VRModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.GridModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ImageConversionModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.SubsystemsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.JSONSerializeModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.LocalizationModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UNETModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.NVIDIAModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ParticleSystemModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.DirectorModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VirtualTexturingModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.GameCenterModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.SpriteMaskModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.StreamingModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.SpriteShapeModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UIElementsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UIElementsNativeModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VehiclesModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.WindModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.XRModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ARModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.InputModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.CoreModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UIBuilderModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UIElementsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UnityConnectModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UIServiceModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.DeviceSimulatorModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.DiagnosticsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.GraphViewModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.PackageManagerUIModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.PresetsUIModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.SceneTemplateModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.QuickSearchModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.TextCoreFontEngineModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.TextCoreTextEngineModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UIElementsSamplesModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\Unity.Cecil.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.CoreModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.DSPGraphModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AudioModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityCurlModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TLSModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AndroidJNIModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.InputLegacyModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AccessibilityModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UIModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityConnectModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AIModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.Physics2DModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AnimationModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.PhysicsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AssetBundleModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.SharedInternalsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TextRenderingModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ClothModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ClusterInputModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ClusterRendererModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.CrashReportingModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TilemapModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TerrainModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.IMGUIModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VFXModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VideoModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VRModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.GridModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ImageConversionModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.SubsystemsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.JSONSerializeModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.LocalizationModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UNETModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.NVIDIAModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ParticleSystemModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.DirectorModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VirtualTexturingModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.GameCenterModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.SpriteMaskModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.StreamingModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TextCoreFontEngineModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TextCoreTextEngineModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.SpriteShapeModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UIElementsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UIElementsNativeModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VehiclesModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.WindModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.XRModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ARModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.InputModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.CoreModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UIBuilderModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UIElementsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UnityConnectModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UIServiceModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.DeviceSimulatorModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.DiagnosticsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.GraphViewModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.PackageManagerUIModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.PresetsUIModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.SceneTemplateModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.QuickSearchModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.TextCoreFontEngineModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.TextCoreTextEngineModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UIElementsSamplesModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\obj\Debug\HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.Tests.csproj.AssemblyReference.cache
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\obj\Debug\HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\obj\Debug\HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.Tests.csproj.CopyComplete
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\obj\Debug\HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.Tests.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\obj\Debug\HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.Tests.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.Tests.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.Tests.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.CoreModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.DSPGraphModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AudioModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityCurlModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TLSModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AndroidJNIModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.InputLegacyModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AccessibilityModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UIModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityConnectModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AIModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityAnalyticsModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.PerformanceReportingModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.Physics2DModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AnimationModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.PhysicsModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AssetBundleModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.SharedInternalsModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TextRenderingModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ClothModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ClusterInputModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ClusterRendererModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.CrashReportingModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TilemapModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TerrainModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.IMGUIModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VFXModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VideoModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VRModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.GridModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ImageConversionModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.SubsystemsModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.JSONSerializeModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.LocalizationModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UNETModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestAudioModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestTextureModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestWWWModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.NVIDIAModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ParticleSystemModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.DirectorModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VirtualTexturingModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ScreenCaptureModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.GameCenterModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.SpriteMaskModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.StreamingModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TerrainPhysicsModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TextCoreFontEngineModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TextCoreTextEngineModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.SpriteShapeModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UIElementsModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UIElementsNativeModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VehiclesModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.WindModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.XRModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ARModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.InputModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.CoreModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UIBuilderModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UIElementsModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UnityConnectModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UIServiceModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.DeviceSimulatorModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.DiagnosticsModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.GraphViewModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.PackageManagerUIModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.SceneTemplateModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.QuickSearchModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.TextCoreFontEngineModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.TextCoreTextEngineModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UIElementsSamplesModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\Unity.Cecil.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.CoreModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.DSPGraphModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AudioModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityCurlModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TLSModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AndroidJNIModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.InputLegacyModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AccessibilityModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UIModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityConnectModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AIModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityAnalyticsModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.PerformanceReportingModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.Physics2DModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AnimationModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.PhysicsModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.AssetBundleModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.SharedInternalsModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TextRenderingModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ClothModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ClusterInputModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ClusterRendererModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.CrashReportingModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TilemapModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TerrainModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.IMGUIModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VFXModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VideoModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VRModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.GridModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ImageConversionModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.SubsystemsModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.JSONSerializeModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.LocalizationModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UNETModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestAudioModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestTextureModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UnityWebRequestWWWModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.NVIDIAModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ParticleSystemModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.DirectorModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VirtualTexturingModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ScreenCaptureModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.GameCenterModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.SpriteMaskModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.StreamingModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TerrainPhysicsModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TextCoreFontEngineModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.TextCoreTextEngineModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.SpriteShapeModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UIElementsModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.UIElementsNativeModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.VehiclesModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.WindModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.XRModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.ARModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEngine.InputModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.CoreModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UIBuilderModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UIElementsModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UnityConnectModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UIServiceModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.DeviceSimulatorModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.DiagnosticsModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.GraphViewModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.PackageManagerUIModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.SceneTemplateModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.QuickSearchModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.TextCoreFontEngineModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.TextCoreTextEngineModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Rider.Editor\UnityEditor.UIElementsSamplesModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\obj\Debug\HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.Tests.csproj.AssemblyReference.cache
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\obj\Debug\HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.Tests.csproj.CoreCompileInputs.cache
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\obj\Debug\HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.Tests.csproj.CopyComplete
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\obj\Debug\HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.Tests.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\obj\Debug\HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.Tests.pdb

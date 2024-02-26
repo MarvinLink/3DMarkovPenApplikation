@@ -1,0 +1,672 @@
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Splines.Examples.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Splines.Examples.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\log4netPlastic.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Microsoft.CSharp.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Microsoft.Win32.Primitives.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\mscorlib.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\netstandard.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Newtonsoft.Json.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\nunit.framework.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\ReportGeneratorMerged.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.AppContext.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Buffers.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Collections.Concurrent.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Collections.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Collections.NonGeneric.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Collections.Specialized.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.ComponentModel.Annotations.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.ComponentModel.Composition.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.ComponentModel.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.ComponentModel.Primitives.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.ComponentModel.TypeConverter.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Console.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Core.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Data.Common.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Data.DataSetExtensions.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Data.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Diagnostics.Contracts.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Diagnostics.Debug.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Diagnostics.Process.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Diagnostics.StackTrace.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Diagnostics.Tools.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Diagnostics.TraceSource.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Drawing.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Drawing.Primitives.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Dynamic.Runtime.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Globalization.Calendars.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Globalization.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Globalization.Extensions.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.IO.Compression.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.IO.Compression.FileSystem.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.IO.Compression.ZipFile.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.IO.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.IO.FileSystem.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.IO.FileSystem.Primitives.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.IO.FileSystem.Watcher.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.IO.IsolatedStorage.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.IO.MemoryMappedFiles.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.IO.Pipes.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Linq.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Linq.Expressions.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Linq.Parallel.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Linq.Queryable.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Memory.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Net.Http.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Net.Http.Rtc.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Net.NameResolution.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Net.NetworkInformation.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Net.Ping.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Net.Primitives.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Net.Requests.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Net.Security.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Net.Sockets.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Net.WebHeaderCollection.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Net.WebSockets.Client.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Net.WebSockets.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Numerics.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Numerics.Vectors.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.ObjectModel.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Reflection.DispatchProxy.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Reflection.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Reflection.Emit.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Reflection.Emit.Lightweight.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Reflection.Extensions.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Reflection.Primitives.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Resources.Reader.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Resources.ResourceManager.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Resources.Writer.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Runtime.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Runtime.Extensions.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Runtime.Handles.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Runtime.InteropServices.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Runtime.Numerics.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Runtime.Serialization.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Runtime.Serialization.Formatters.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Runtime.Serialization.Json.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Runtime.Serialization.Primitives.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Runtime.Serialization.Xml.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Security.Claims.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Security.Cryptography.Algorithms.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Security.Cryptography.Csp.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Security.Cryptography.Encoding.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Security.Cryptography.Primitives.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Security.Principal.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Security.SecureString.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.ServiceModel.Duplex.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.ServiceModel.Http.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.ServiceModel.NetTcp.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.ServiceModel.Primitives.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.ServiceModel.Security.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Text.Encoding.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Text.Encoding.Extensions.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Text.RegularExpressions.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Threading.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Threading.Overlapped.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Threading.Tasks.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Threading.Tasks.Extensions.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Threading.Tasks.Parallel.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Threading.Thread.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Threading.ThreadPool.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Threading.Timer.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Transactions.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.ValueTuple.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Xml.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Xml.Linq.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Xml.ReaderWriter.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Xml.XDocument.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Xml.XmlDocument.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Xml.XmlSerializer.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Xml.XPath.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Xml.XPath.XDocument.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Mathematics.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Plastic.Antlr3.Runtime.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Plastic.Newtonsoft.Json.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Splines.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Splines.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Splines.Examples.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.VisualScripting.Antlr3.Runtime.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.VisualScripting.IonicZip.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.VisualScripting.YamlDotNet.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.CoreModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.DeviceSimulatorModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.DiagnosticsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.Graphs.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.GraphViewModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.PackageManagerUIModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.PresetsUIModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.QuickSearchModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.SceneTemplateModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.TestRunner.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.TextCoreFontEngineModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.TextCoreTextEngineModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.UI.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.UIBuilderModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.UIElementsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.UIElementsSamplesModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.UIServiceModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.UnityConnectModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.WindowsStandalone.Extensions.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.AccessibilityModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.AIModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.AndroidJNIModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.AnimationModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ARModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.AssetBundleModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.AudioModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ClothModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ClusterInputModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ClusterRendererModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.CoreModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.CrashReportingModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.DirectorModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.DSPGraphModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.GameCenterModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.GIModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.GridModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.HotReloadModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ImageConversionModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.IMGUIModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.InputLegacyModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.InputModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.JSONSerializeModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.LocalizationModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.NVIDIAModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ParticleSystemModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.Physics2DModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.PhysicsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ProfilerModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.SharedInternalsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.SpriteMaskModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.SpriteShapeModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.StreamingModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.SubstanceModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.SubsystemsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TerrainModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TestRunner.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TextRenderingModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TilemapModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TLSModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UI.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UIElementsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UIElementsNativeModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UIModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UmbraModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UNETModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityConnectModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityCurlModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.VehiclesModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.VFXModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.VideoModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.VirtualTexturingModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.VRModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.WindModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.XRModule.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\unityplastic.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Cecil.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.CodeDom.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\WinPlayerBuildProgram.Data.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.EnterpriseServices.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Settings.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Splines.Examples.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.AIModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ARModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.AccessibilityModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.AndroidJNIModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.AnimationModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.AssetBundleModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.AudioModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ClothModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ClusterInputModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ClusterRendererModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.CoreModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.CrashReportingModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.DSPGraphModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.DirectorModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.GIModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.GameCenterModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.GridModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.HotReloadModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.IMGUIModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ImageConversionModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.InputModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.InputLegacyModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.JSONSerializeModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.LocalizationModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.NVIDIAModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ParticleSystemModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.PhysicsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.Physics2DModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ProfilerModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.SharedInternalsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.SpriteMaskModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.SpriteShapeModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.StreamingModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.SubstanceModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.SubsystemsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TLSModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TerrainModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TextCoreFontEngineModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TextCoreTextEngineModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TextRenderingModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TilemapModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UIModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UIElementsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UIElementsNativeModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UNETModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UmbraModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityConnectModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityCurlModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityTestProtocolModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.VFXModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.VRModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.VehiclesModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.VideoModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.VirtualTexturingModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.WindModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.XRModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.CoreModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.DeviceSimulatorModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.DiagnosticsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.GraphViewModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.PackageManagerUIModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.PresetsUIModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.QuickSearchModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.SceneTemplateModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.TextCoreFontEngineModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.TextCoreTextEngineModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.UIBuilderModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.UIElementsModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.UIElementsSamplesModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.UIServiceModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.UnityConnectModule.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.VisualScripting.IonicZip.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Newtonsoft.Json.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.VisualScripting.YamlDotNet.xml
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Splines.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Splines.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Mathematics.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.UI.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UI.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.TestRunner.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TestRunner.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Settings.Editor.pdb
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\obj\Debug\Unity.Splines.Examples.Editor.csproj.AssemblyReference.cache
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\obj\Debug\Unity.Splines.Examples.Editor.csproj.CoreCompileInputs.cache
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\obj\Debug\Unity.Splines.Examples.Editor.csproj.CopyComplete
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\obj\Debug\Unity.Splines.Examples.Editor.dll
+C:\Users\Linkion\Documents\HTW\BachelorArbeit\13.12\BachelorModellierKernel\obj\Debug\Unity.Splines.Examples.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Splines.Examples.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Splines.Examples.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\log4netPlastic.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Microsoft.CSharp.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Microsoft.Win32.Primitives.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\mscorlib.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\netstandard.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Newtonsoft.Json.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\nunit.framework.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\ReportGeneratorMerged.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.AppContext.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Buffers.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Collections.Concurrent.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Collections.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Collections.NonGeneric.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Collections.Specialized.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.ComponentModel.Annotations.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.ComponentModel.Composition.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.ComponentModel.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.ComponentModel.EventBasedAsync.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.ComponentModel.Primitives.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.ComponentModel.TypeConverter.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Console.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Core.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Data.Common.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Data.DataSetExtensions.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Data.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Diagnostics.Contracts.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Diagnostics.Debug.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Diagnostics.FileVersionInfo.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Diagnostics.Process.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Diagnostics.StackTrace.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Diagnostics.TextWriterTraceListener.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Diagnostics.Tools.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Diagnostics.TraceSource.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Drawing.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Drawing.Primitives.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Dynamic.Runtime.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Globalization.Calendars.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Globalization.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Globalization.Extensions.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.IO.Compression.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.IO.Compression.FileSystem.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.IO.Compression.ZipFile.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.IO.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.IO.FileSystem.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.IO.FileSystem.DriveInfo.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.IO.FileSystem.Primitives.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.IO.FileSystem.Watcher.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.IO.IsolatedStorage.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.IO.MemoryMappedFiles.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.IO.Pipes.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.IO.UnmanagedMemoryStream.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Linq.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Linq.Expressions.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Linq.Parallel.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Linq.Queryable.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Memory.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Net.Http.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Net.Http.Rtc.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Net.NameResolution.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Net.NetworkInformation.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Net.Ping.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Net.Primitives.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Net.Requests.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Net.Security.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Net.Sockets.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Net.WebHeaderCollection.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Net.WebSockets.Client.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Net.WebSockets.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Numerics.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Numerics.Vectors.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.ObjectModel.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Reflection.DispatchProxy.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Reflection.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Reflection.Emit.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Reflection.Emit.ILGeneration.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Reflection.Emit.Lightweight.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Reflection.Extensions.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Reflection.Primitives.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Resources.Reader.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Resources.ResourceManager.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Resources.Writer.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Runtime.CompilerServices.VisualC.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Runtime.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Runtime.Extensions.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Runtime.Handles.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Runtime.InteropServices.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Runtime.Numerics.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Runtime.Serialization.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Runtime.Serialization.Formatters.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Runtime.Serialization.Json.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Runtime.Serialization.Primitives.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Runtime.Serialization.Xml.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Security.Claims.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Security.Cryptography.Algorithms.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Security.Cryptography.Csp.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Security.Cryptography.Encoding.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Security.Cryptography.Primitives.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Security.Cryptography.X509Certificates.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Security.Principal.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Security.SecureString.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.ServiceModel.Duplex.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.ServiceModel.Http.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.ServiceModel.NetTcp.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.ServiceModel.Primitives.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.ServiceModel.Security.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Text.Encoding.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Text.Encoding.Extensions.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Text.RegularExpressions.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Threading.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Threading.Overlapped.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Threading.Tasks.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Threading.Tasks.Extensions.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Threading.Tasks.Parallel.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Threading.Thread.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Threading.ThreadPool.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Threading.Timer.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Transactions.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.ValueTuple.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Xml.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Xml.Linq.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Xml.ReaderWriter.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Xml.XDocument.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Xml.XmlDocument.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Xml.XmlSerializer.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Xml.XPath.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.Xml.XPath.XDocument.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Mathematics.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Plastic.Antlr3.Runtime.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Plastic.Newtonsoft.Json.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Splines.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Splines.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Splines.Examples.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.VisualScripting.Antlr3.Runtime.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.VisualScripting.IonicZip.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.VisualScripting.YamlDotNet.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.CoreModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.DeviceSimulatorModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.DiagnosticsModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.Graphs.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.GraphViewModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.PackageManagerUIModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.QuickSearchModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.SceneTemplateModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.TestRunner.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.TextCoreFontEngineModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.TextCoreTextEngineModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.UI.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.UIBuilderModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.UIElementsModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.UIElementsSamplesModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.UIServiceModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.UnityConnectModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.WebGL.Extensions.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.WindowsStandalone.Extensions.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.AccessibilityModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.AIModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.AndroidJNIModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.AnimationModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ARModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.AssetBundleModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.AudioModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ClothModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ClusterInputModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ClusterRendererModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.CoreModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.CrashReportingModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.DirectorModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.DSPGraphModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.GameCenterModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.GIModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.GridModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.HotReloadModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ImageConversionModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.IMGUIModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.InputLegacyModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.InputModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.JSONSerializeModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.LocalizationModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.NVIDIAModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ParticleSystemModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.PerformanceReportingModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.Physics2DModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.PhysicsModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ProfilerModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ScreenCaptureModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.SharedInternalsModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.SpriteMaskModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.SpriteShapeModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.StreamingModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.SubstanceModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.SubsystemsModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TerrainModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TerrainPhysicsModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TestRunner.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TextCoreFontEngineModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TextCoreTextEngineModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TextRenderingModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TilemapModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TLSModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UI.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UIElementsModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UIElementsNativeModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UIModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UmbraModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UNETModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityAnalyticsModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityConnectModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityCurlModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityTestProtocolModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityWebRequestAudioModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityWebRequestModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityWebRequestTextureModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityWebRequestWWWModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.VehiclesModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.VFXModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.VideoModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.VirtualTexturingModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.VRModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.WindModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.XRModule.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\unityplastic.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Valve.Newtonsoft.Json.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Cecil.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\WebGLPlayerBuildProgram.Data.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\WinPlayerBuildProgram.Data.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\System.EnterpriseServices.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Settings.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Splines.Examples.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.AIModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ARModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.AccessibilityModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.AndroidJNIModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.AnimationModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.AssetBundleModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.AudioModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ClothModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ClusterInputModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ClusterRendererModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.CoreModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.CrashReportingModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.DSPGraphModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.DirectorModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.GIModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.GameCenterModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.GridModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.HotReloadModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.IMGUIModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ImageConversionModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.InputModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.InputLegacyModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.JSONSerializeModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.LocalizationModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.NVIDIAModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ParticleSystemModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.PerformanceReportingModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.PhysicsModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.Physics2DModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ProfilerModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.ScreenCaptureModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.SharedInternalsModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.SpriteMaskModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.SpriteShapeModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.StreamingModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.SubstanceModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.SubsystemsModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TLSModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TerrainModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TerrainPhysicsModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TextCoreFontEngineModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TextCoreTextEngineModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TextRenderingModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TilemapModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UIModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UIElementsModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UIElementsNativeModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UNETModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UmbraModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityAnalyticsModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityConnectModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityCurlModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityTestProtocolModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityWebRequestModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityWebRequestAudioModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityWebRequestTextureModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UnityWebRequestWWWModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.VFXModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.VRModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.VehiclesModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.VideoModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.VirtualTexturingModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.WindModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.XRModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.CoreModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.DeviceSimulatorModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.DiagnosticsModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.GraphViewModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.PackageManagerUIModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.QuickSearchModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.SceneTemplateModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.TextCoreFontEngineModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.TextCoreTextEngineModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.UIBuilderModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.UIElementsModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.UIElementsSamplesModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.UIServiceModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.UnityConnectModule.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.WebGL.Extensions.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.VisualScripting.IonicZip.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Newtonsoft.Json.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.VisualScripting.YamlDotNet.xml
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Splines.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Splines.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Mathematics.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.UI.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.UI.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEditor.TestRunner.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\UnityEngine.TestRunner.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\WebGLPlayerBuildProgram.Data.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\Temp\Bin\Debug\Unity.Splines.Examples.Editor\Unity.Settings.Editor.pdb
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\obj\Debug\Unity.Splines.Examples.Editor.csproj.AssemblyReference.cache
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\obj\Debug\Unity.Splines.Examples.Editor.csproj.CoreCompileInputs.cache
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\obj\Debug\Unity.Splines.Examples.Editor.csproj.CopyComplete
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\obj\Debug\Unity.Splines.Examples.Editor.dll
+D:\Modelierkernel\Modelierkernel mit korrigierten Normalen\Debugging\BachelorModellierKernel\obj\Debug\Unity.Splines.Examples.Editor.pdb
